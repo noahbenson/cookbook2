@@ -7,5 +7,5 @@ Ingredients:
 
 Instructions:
 * mix everything together
-* mash it up
+* mash it up with a fork
 
