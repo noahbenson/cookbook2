@@ -4,6 +4,7 @@ Ingredients:
 * cilantro
 * salt
 * lime
+* tomatoes
 
 Instructions:
 * mix everything together
